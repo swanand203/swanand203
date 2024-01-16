@@ -2,7 +2,7 @@
 swanand203/swanand203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2> Namaste🙏🏻, I'm Swanand Puyed! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> Hello 👋, I'm Swanand Puyed! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Pursuing B.tech in Computer Science from <a href="https://vitbhopal.ac.in/">VIT Bhopal University
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -46,15 +46,15 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-☕️%20Café%20Website-000)](https://github.com/yazdanhaider/Cafe-Good-Samaritans)
 [![](https://img.shields.io/badge/-🗺%20Face%20Recognition%20Attndance%20System-000)]([https://github.com/adamalston/PokemonGo-Map](https://github.com/yazdanhaider/Face-Recognition-Based-Attendance-System))
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Yazdan's github stats](https://github-readme-stats.vercel.app/api?username=yazdanhaider&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazdanhaider&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
-
 --->
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Swanand's github stats](https://github-readme-stats.vercel.app/api?username=swanand203&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swanand203&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
+
 
 
 
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
 
-<p align="center"> **If you like this readme file, please give me star! 🌟**</p>
+<p align="center"> **If you like this readme file, please give me a star! 🌟**</p>
 <!-- <p align="center">Made with ❤️ in BHARAT 🇮🇳</p> -->
