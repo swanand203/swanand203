@@ -1,16 +1,15 @@
 <!---
 swanand203/swanand203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 --->
 <h2> Hello 👋, I'm Swanand Puyed! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Pursuing B.tech in Computer Science from <a href="https://vitbhopal.ac.in/">VIT Bhopal University
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=swanand203)
 [![Linkedin: Swanand](https://img.shields.io/badge/-Swanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swanand-puyed-61a7311b6/)](https://www.linkedin.com/in/swanand-puyed-61a7311b6/)
-[![GitHub followers](https://img.shields.io/github/followers/swanand203?tab=followers&style=social)](https://github.com/swanand203)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -26,11 +25,13 @@ You can click the Preview link to take a look at your changes.
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![R](https://img.shields.io/badge/R-black)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Html](https://img.shields.io/badge/-HTML-000?&logo=Html)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
 
 ### Technologies
 
